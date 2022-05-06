@@ -3,3 +3,8 @@ data/
 replayattack/
 test/
 .ipynb_checkpoints/
+vggface2_test
+vggface2_test_dummy
+dataset
+Siamese-Network-Processed
+replay-images
